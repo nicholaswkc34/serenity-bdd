@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login to Orange HRM","Login with invalid credentials","FAILURE","2022-10-02T07:01:47.0055233+08:00[Asia/Singapore]","0.0","0.24"
+"Login to Orange HRM","Verify forgot password functionality","FAILURE","2022-10-02T07:01:47.2585224+08:00[Asia/Singapore]","0.0","0.05"
+"Login to Orange HRM","Login with valid credentials","SUCCESS","2022-10-02T09:05:41.09833+08:00[Asia/Singapore]","0.0","16.62"
